@@ -1,2 +1,2 @@
-# CSS
-Fun with CSS Workshop
+# Hackathon
+WWCode Singapore Hackathon website
