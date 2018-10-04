@@ -1,0 +1,674 @@
+.ImnMyf {
+ background-color: rgba(255,255,255,1);
+ color: rgba(33,33,33,1);
+}
+.Vs12Bd {
+ background-color: rgba(244,244,244,1);
+ color: rgba(42,101,102,1);
+}
+.S5d9Rd {
+ background-color: rgba(42,101,102,1);
+ color: rgba(255,255,255,1);
+}
+.O13XJf {
+ height: 340px;
+ padding-bottom: 56px;
+ padding-top: 56px;
+}
+.O13XJf .IFuOkc {
+ background-image: url(https://ssl.gstatic.com/atari/images/impression-header.png);
+}
+.O13XJf .IFuOkc:before {
+ background-color: rgba(33,33,33,1);
+ opacity: 0.5;
+ display: block;
+}
+.O13XJf .zfr3Q {
+ color: rgba(1,1,1,1);
+}
+@media only screen and (max-width: 479px) {
+ .O13XJf {
+  height: 250px;
+ }
+}
+.SBrW1 {
+ height: 430px;
+ padding-bottom: 120px;
+ padding-top: 120px;
+}
+.WVklg {
+ height: 100vh;
+}
+.Wew9ke {
+ fill: rgba(255,255,255,1);
+}
+.YTv4We {
+ color: rgba(31,31,31,1);
+}
+.KJll8d {
+ background-color: rgba(255,255,255,1);
+}
+.fOU46b .ZXW7w {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .TlfmSc {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .Mz8gvb {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .G8QRnc .Mz8gvb {
+ color: rgba(31,31,31,1);
+}
+.fOU46b .G8QRnc .ZXW7w {
+ color: rgba(31,31,31,1);
+}
+.fOU46b .G8QRnc .TlfmSc {
+ color: rgba(31,31,31,1);
+}
+.fOU46b .G8QRnc .KJll8d {
+ background-color: rgba(31,31,31,1);
+}
+.fOU46b .G8QRnc .qV4dIc {
+ color: rgba(31,31,31,1);
+}
+.fOU46b .G8QRnc .iWs3gf {
+ fill: rgba(31,31,31,1);
+}
+.fOU46b .aCIEDd .qV4dIc {
+ color: rgba(42,101,102,1);
+}
+.fOU46b .aCIEDd .TlfmSc {
+ color: rgba(42,101,102,1);
+}
+.fOU46b .aCIEDd .KJll8d {
+ background-color: rgba(42,101,102,1);
+}
+.fOU46b .aCIEDd .ZXW7w {
+ color: rgba(42,101,102,1);
+}
+.fOU46b .aCIEDd .Mz8gvb {
+ color: rgba(42,101,102,1);
+}
+.fOU46b .aCIEDd .iWs3gf {
+ fill: rgba(42,101,102,1);
+}
+.fOU46b .a3ETed .qV4dIc {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .a3ETed .TlfmSc {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .a3ETed .KJll8d {
+ background-color: rgba(255,255,255,1);
+}
+.fOU46b .a3ETed .ZXW7w {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .a3ETed .Mz8gvb {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .a3ETed .iWs3gf {
+ fill: rgba(255,255,255,1);
+}
+.fOU46b .zDUgLc {
+ opacity: 0;
+}
+.fOU46b .qV4dIc {
+ color: rgba(255,255,255,1);
+}
+.fOU46b .iWs3gf {
+ fill: rgba(255,255,255,1);
+}
+.fOU46b .LBrwzc .zDUgLc {
+ opacity: 1;
+ border-bottom-style: none;
+}
+.fOU46b .GBy4H .zDUgLc {
+ opacity: 1;
+}
+@media only screen and (min-width: 1280px) {
+ .XeSM4.b2Iqye.fOU46b .LBrwzc .iWs3gf {
+  fill: rgba(255,255,255,1);
+ }
+}
+@media only screen and (min-width: 1280px) {
+ .KuNac.b2Iqye.fOU46b .GBy4H .iWs3gf {
+  fill: rgba(31,31,31,1);
+ }
+}
+@media only screen and (min-width: 1280px) {
+ .KuNac.yMcSQd.fOU46b .GBy4H .iWs3gf {
+  fill: rgba(255,255,255,1);
+ }
+}
+@media only screen and (min-width: 1280px) {
+ .XeSM4.yMcSQd.fOU46b .LBrwzc .iWs3gf {
+  fill: rgba(31,31,31,1);
+ }
+}
+.LBrwzc .PsKE7e {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .ZXW7w {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .TlfmSc {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .KJll8d {
+ background-color: rgba(31,31,31,1);
+}
+.LBrwzc .Hnbbrb {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .YTv4We {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .Mz8gvb {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .qV4dIc {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .iWs3gf {
+ fill: rgba(31,31,31,1);
+}
+.LBrwzc .Zjiec {
+ color: rgba(31,31,31,1);
+}
+.LBrwzc .zDUgLc {
+ border-bottom-color: rgba(204,204,204,1);
+ border-bottom-width: 1px;
+ border-bottom-style: solid;
+}
+.GBy4H .PsKE7e {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .eBSUbc {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .ZXW7w {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .TlfmSc {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .Hnbbrb {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .YTv4We {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .Mz8gvb {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .qV4dIc {
+ color: rgba(255,255,255,1);
+}
+.GBy4H .iWs3gf {
+ fill: rgba(255,255,255,1);
+}
+.GBy4H .wgxiMe {
+ background-color: rgba(0,0,0,1);
+}
+.GBy4H .Zjiec {
+ color: rgba(255,255,255,1);
+}
+.JzO0Vc {
+ background-color: rgba(247,247,247,1);
+}
+.M63kCb {
+ background-color: rgba(255,255,255,1);
+}
+.zfr3Q {
+ font-family: Bitter;
+ color: rgba(33,33,33,1);
+ font-size: 18px;
+ line-height: 1.6;
+ margin-top: 15px;
+}
+.dhtgD {
+ text-decoration: underline;
+}
+.dhtgD:hover {
+ color: rgba(42,101,102,1);
+}
+.dhtgD:active {
+ color: rgba(42,101,102,1);
+}
+.duRjpb {
+ font-family: Bitter;
+ font-size: 50px;
+ line-height: 1.23;
+ font-weight: 400;
+ color: rgba(31,31,31,1);
+ margin-top: 20px;
+ text-transform: none;
+}
+.JYVBee {
+ font-family: Bitter;
+ font-size: 38px;
+ line-height: 1.42;
+ font-weight: 400;
+ color: rgba(31,31,31,1);
+ margin-top: 20px;
+ text-transform: none;
+}
+.OmQG5e {
+ font-family: Bitter;
+ font-size: 24px;
+ line-height: 1.3;
+ margin-top: 20px;
+ font-weight: 400;
+ color: rgba(42,101,102,1);
+}
+.TMjjoe {
+ font-family: Bitter;
+ font-size: 12px;
+ line-height: 1.2;
+ margin-top: 0px;
+}
+.duRjpb .mohMlc {
+ text-decoration: none;
+ border-bottom-width: 76px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(33,33,33,1);
+ padding-bottom: 6px;
+}
+.JYVBee .mohMlc {
+ text-decoration: none;
+ border-bottom-width: 7px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(33,33,33,1);
+ padding-bottom: 2px;
+}
+.OmQG5e .mohMlc {
+ text-decoration: underline;
+}
+.n8H08c {
+ padding-left: 20px;
+ padding-top: 8px;
+}
+.TYR86d {
+ margin-top: 6px;
+ margin-bottom: 6px;
+}
+.rysYnb {
+ background-color: rgba(247,247,247,1);
+ padding-left: 50px;
+ width: 256px;
+}
+.Zjiec {
+ font-family: Bitter;
+ font-weight: 400;
+ font-size: 26px;
+ color: rgba(42,101,102,1);
+ line-height: 1.2;
+ margin-top: 48px;
+ margin-left: 48px;
+ margin-bottom: 62px;
+ margin-right: 32px;
+}
+.XMyrgf {
+ margin-top: 48px;
+ margin-left: 48px;
+ margin-bottom: 0px;
+ margin-right: 32px;
+}
+.PsKE7e {
+ font-family: Bitter;
+ font-weight: 400;
+ font-size: 16px;
+ color: rgba(31,31,31,1);
+ padding-left: 6px;
+ padding-right: 6px;
+}
+.rysYnb .mohMlc:hover {
+ background-color: rgba(0,0,0,1);
+}
+.lhZOrc .aJHbb {
+ background-color: rgba(31,31,31,1);
+ color: rgba(255,255,255,1);
+}
+.Mz8gvb {
+ color: rgba(31,31,31,1);
+}
+.Hnbbrb {
+ font-size: 22px;
+ margin-bottom: 32px;
+ font-weight: 400;
+}
+.zDUgLc {
+ background-color: rgba(255,255,255,1);
+ opacity: 1;
+}
+.ZXW7w {
+ color: rgba(31,31,31,1);
+ opacity: 0.26;
+}
+.TlfmSc {
+ font-family: Bitter;
+ font-weight: 400;
+ font-size: 22px;
+ line-height: 1.26;
+}
+.u5fiyc {
+ line-height: 1.88;
+}
+.jgXgSe {
+ font-family: Bitter;
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 1.88;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+.lhZOrc {
+ font-weight: 600;
+}
+.M9vuGd .jgXgSe {
+ background-color: rgba(31,31,31,1);
+ color: rgba(255,255,255,1);
+}
+.eWDljc {
+ background-color: rgba(247,247,247,1);
+ padding-bottom: 28px;
+}
+.IKA38e {
+ padding-left: 36px;
+ margin-top: 20px;
+}
+.hDrhEe {
+ font-family: Bitter;
+ margin-left: 12px;
+ margin-right: 12px;
+ padding-right: 6px;
+ padding-left: 6px;
+ display: inline-block;
+ max-width: 90%;
+}
+.baH5ib .hDrhEe {
+ margin-left: 4px;
+ padding-left: 6px;
+}
+.iwQgFb {
+ background-color: rgba(42,101,102,1);
+ opacity: 0.8;
+ height: 3px;
+ margin-top: 8px;
+}
+.qeLZfd .yaqOZd {
+ background-color: rgba(242,242,242,1);
+}
+.qeLZfd .iwQgFb {
+ background-color: rgba(42,101,102,1);
+ opacity: 1;
+}
+.qeLZfd .dhtgD:hover {
+ color: rgba(42,101,102,1);
+}
+.qeLZfd .duRjpb {
+ color: rgba(42,101,102,1);
+}
+.qeLZfd .JYVBee {
+ color: rgba(42,101,102,1);
+}
+.qeLZfd .OmQG5e {
+ color: rgba(42,101,102,1);
+}
+.qeLZfd .duRjpb .mohMlc {
+ color: rgba(42,101,102,1);
+}
+.qeLZfd .JYVBee .mohMlc {
+ color: rgba(42,101,102,1);
+}
+.lQAHbd .yaqOZd {
+ background-color: rgba(42,101,102,1);
+}
+.lQAHbd .iwQgFb {
+ background-color: rgba(255,255,255,1);
+ opacity: 1;
+}
+.lQAHbd .zfr3Q {
+ color: rgba(255,255,255,1);
+}
+.lQAHbd .dhtgD:hover {
+ color: rgba(255,255,255,1);
+ opacity: 0.7;
+}
+.lQAHbd .duRjpb {
+ color: rgba(255,255,255,1);
+}
+.lQAHbd .JYVBee {
+ color: rgba(255,255,255,1);
+}
+.lQAHbd .OmQG5e {
+ color: rgba(255,255,255,1);
+}
+.lQAHbd .duRjpb .mohMlc {
+ color: rgba(255,255,255,1);
+ border-bottom-width: 8px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(255,255,255,1);
+}
+.lQAHbd .JYVBee .mohMlc {
+ color: rgba(255,255,255,1);
+ border-bottom-width: 7px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(255,255,255,1);
+}
+.IFuOkc .dhtgD:hover {
+ color: rgba(42,101,102,1);
+}
+.IFuOkc .duRjpb .mohMlc {
+ border-bottom-width: 8px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(255,255,255,1);
+}
+.IFuOkc .JYVBee .mohMlc {
+ border-bottom-width: 7px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(255,255,255,1);
+}
+.LB7kq .dhtgD:hover {
+ color: rgba(42,101,102,1);
+}
+.LB7kq .baZpAe .duRjpb {
+ padding-bottom: 20px;
+}
+.LB7kq .duRjpb:first-child:before {
+ border-bottom-width: 12px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(42,101,102,1);
+ display: block;
+}
+.LB7kq .duRjpb {
+ font-size: 80px;
+ line-height: 1.2;
+ font-weight: 400;
+ padding-bottom: 20px;
+}
+@media only screen and (max-width: 479px) {
+ .LB7kq .duRjpb {
+  font-size: 52px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .LB7kq .duRjpb {
+  font-size: 68px;
+ }
+}
+.LB7kq .JYVBee {
+ font-size: 38px;
+ line-height: 1.18;
+}
+@media only screen and (max-width: 479px) {
+ .LB7kq .JYVBee {
+  font-size: 29px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .LB7kq .JYVBee {
+  font-size: 34px;
+ }
+}
+.LB7kq .duRjpb .mohMlc {
+ border-bottom-width: 8px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(255,255,255,1);
+}
+.gk8rDe {
+ padding-top: 60px;
+}
+@media only screen and (max-width: 479px) {
+ .gk8rDe {
+  padding-top: 32px;
+  padding-bottom: 32px;
+ }
+}
+.gk8rDe .duRjpb {
+ font-size: 64px;
+}
+@media only screen and (max-width: 479px) {
+ .gk8rDe .duRjpb {
+  font-size: 43px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .gk8rDe .duRjpb {
+  font-size: 55px;
+ }
+}
+.LB7kq .JYVBee .mohMlc {
+ border-bottom-width: 7px;
+ border-bottom-style: solid;
+ border-bottom-color: rgba(255,255,255,1);
+}
+.cJgDec .zfr3Q {
+ color: rgba(255,255,255,1);
+}
+.cJgDec .IFuOkc:before {
+ background-color: rgba(33,33,33,1);
+ opacity: 0.5;
+ display: block;
+}
+.tpmmCb .zfr3Q {
+ color: rgba(31,31,31,1);
+}
+.tpmmCb .IFuOkc:before {
+ background-color: rgba(255,255,255,1);
+ display: block;
+}
+.tpmmCb .Wew9ke {
+ fill: rgba(31,31,31,1);
+}
+.PsKE7e:hover {
+ opacity: 0.7;
+}
+.eBSUbc {
+ color: rgba(31,31,31,1);
+ background-color: rgba(247,247,247,1);
+}
+.BFDQOb:hover {
+ opacity: 0.7;
+}
+.iWs3gf {
+ fill: rgba(31,31,31,1);
+}
+.wgxiMe {
+ background-color: rgba(247,247,247,1);
+}
+.TYR86d>.n8H08c {
+ margin-top: 6px;
+}
+@media only screen and (max-width: 479px) {
+ .duRjpb {
+  font-size: 36px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .duRjpb {
+  font-size: 44px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .JYVBee {
+  font-size: 29px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .JYVBee {
+  font-size: 34px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .OmQG5e {
+  font-size: 21px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .OmQG5e {
+  font-size: 23px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .TMjjoe {
+  font-size: 12px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .TMjjoe {
+  font-size: 12px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .Zjiec {
+  font-size: 22px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .Zjiec {
+  font-size: 24px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .PsKE7e {
+  font-size: 16px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .PsKE7e {
+  font-size: 16px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .Hnbbrb {
+  font-size: 20px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .Hnbbrb {
+  font-size: 21px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .TlfmSc {
+  font-size: 20px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .TlfmSc {
+  font-size: 21px;
+ }
+}
+@media only screen and (max-width: 479px) {
+ .jgXgSe {
+  font-size: 16px;
+ }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ .jgXgSe {
+  font-size: 16px;
+ }
+}
